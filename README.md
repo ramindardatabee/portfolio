@@ -5,15 +5,14 @@
   💼 Currently working as a Data Analyst (Operations Analyst) at DHL Express Canada, leveraging analytics to enhance operational efficiency.
   
   🎓 Applied Data Analytics Certificate from British Columbia Institude of Techenology and Master in Mathematics from Allahabad University.     
+
   🧠 Strong foundation in data visualization, predictive analytics, and reporting automation.
   
-  💬 Skilled in communicating complex insights through clear visuals and data storytelling. 
+  💬 Skilled in communicating complex insights through clear visuals and data storytelling.
   
-  🌱 Continuously learning advanced analytics and expanding my knowledge in SQL, Power BI,Tableau and Python. 
-   
+  🌱 Continuously learning advanced analytics and expanding my knowledge in SQL, Power BI, and Python.
+  
   🌍 Based in Vancouver, BC, open to remote and hybrid analytical roles.
-
-
 # Education
 
 # Certification 
