@@ -33,7 +33,7 @@
       - Developed an interactive dashboard to track sales, customer dempgraphics and product preformance.
 https://github.com/ramindardatabee/Adventure-work-report-
    ##  SQL
-   - ### North Wind Dataset:
+ - ### North Wind Dataset:
    -  Optimized queries for business intelligence reporting to manage small business customers' orders, purchasing, inventory, suppliers, shipping and employees.
  https://github.com/ramindardatabee/NWDB-projects
    ## Python
@@ -46,7 +46,10 @@ https://github.com/ramindardatabee/Adventure-work-report-
    - Certificate in Applied Data Analytics – BCIT, Canada
    - M.Sc. Mathematics – University of Allahabad, India
    - Google Data Analytics Professional Certificate – Coursera
+       -[ https://coursera.org/verify/profession al-cert/6J8RZF5RFJYL](https://www.coursera.org/account/accomplishments/professional-cert/6J8RZF5RFJYL)
    - Microsoft Power BI Desktop for Business Intelligence – Udemy
+       -https://www.udemy.com/certificate/UC-b9e38b79-8432-4042-a202-4810deb0c5a8/
+
  
  # 📫 Let’s Connect
    📧 ramindarkaur@gmail.com
