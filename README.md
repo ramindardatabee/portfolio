@@ -24,16 +24,16 @@
      - Visualized immigration pattern dor student ocer the past eignt years,highilighting significant dempgraphic shifts  and the imact of police changes.
     https://public.tableau.com/app/profile/ramindar.kaur/viz/StudentsimmigrationinCanada/Dashboard2?publish=yes
 ## Power BI
-   - ### Hospital Challenge Maven- Analytics :
-    - This report presents a high-level analysis of patient data from Massachusetts General Hospital, focusing on patient encounters, financial performance, and procedure utilization.
-    -  Key findings include high readmission rates among older patients, rising healthcare costs over time, and significant variation in procedure costs and durations. 
+  - ### Hospital Challenge Maven- Analytics :
+   -  This report presents a high-level analysis of patient data from Massachusetts General Hospital, focusing on patient encounters, financial performance, and procedure utilization.
+   -  Key findings include high readmission rates among older patients, rising healthcare costs over time, and significant variation in procedure costs and durations. 
     https://github.com/ramindardatabee/Hospital-Challenge-Maven-Analytics
 
    - ### Adventure works Dataset :
       - Developed an interactive dashboard to track sales, customer dempgraphics and product preformance.
 https://github.com/ramindardatabee/Adventure-work-report-
 ## SQL
-   - ### North Wind Dataset:
+ - ### North Wind Dataset:
     -  Optimized queries for business intelligence reporting to manage small business customers' orders, purchasing, inventory, suppliers, shipping and employees.
  https://github.com/ramindardatabee/NWDB-projects
 ## Python
