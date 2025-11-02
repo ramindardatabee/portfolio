@@ -24,8 +24,13 @@
      - Visualized immigration pattern dor student ocer the past eignt years,highilighting significant dempgraphic shifts  and the imact of police changes.
     https://public.tableau.com/app/profile/ramindar.kaur/viz/StudentsimmigrationinCanada/Dashboard2?publish=yes
    ## Power BI
-   - ### Adventure works Dataset :
-   - Developed an interactive dashboard to track sales, customer dempgraphics and product preformance.
+  - ### Hospital Challenge Maven- Analytics :
+    - This report presents a high-level analysis of patient data from Massachusetts General Hospital, focusing on patient encounters, financial performance, and procedure utilization.
+    -  Key findings include high readmission rates among older patients, rising healthcare costs over time, and significant variation in procedure costs and durations. 
+    https://github.com/ramindardatabee/Hospital-Challenge-Maven-Analytics
+
+ - ### Adventure works Dataset :
+      - Developed an interactive dashboard to track sales, customer dempgraphics and product preformance.
 https://github.com/ramindardatabee/Adventure-work-report-
    ##  SQL
    - ### North Wind Dataset:
@@ -34,7 +39,7 @@ https://github.com/ramindardatabee/Adventure-work-report-
    ## Python
    ## R
    - ### Bellabeat Google Capstone Project:
-   -  Analyzed Fitbit fitness tracker data to uncover how activity type and sleep duration impact BMI and calorie burn, offering actionable insights for users. The findings help Bellabeat’s marketing and product teams design data-driven wellness recommendations and app enhancements.
+      -  Analyzed Fitbit fitness tracker data to uncover how activity type and sleep duration impact BMI and calorie burn, offering actionable insights for users. The findings help Bellabeat’s marketing and product teams design data-driven wellness recommendations and app enhancements.
  https://www.kaggle.com/code/ramindarkaur/bellabeat-google-capstone-project
 
 # 🎓 Education & Certifications
