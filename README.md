@@ -15,9 +15,9 @@
 # 📊 Projects
    ## Tableau
    - ### Sales and Customer Analysis :
-   -  The project provides the overview of sales and cutomer data ,trends and behaviour
+   -  The project provides the overview of sales and cutomer data ,trends and behaviour helping marketing team and management to understand customer segement and improve sales and customer satisfaction.https://public.tableau.com/app/profile/ramindar.kaur2033/viz/SalesCustomerAnalysisProject/SalesDashbord
    - ### Women for change :
-      - The projeange/Dashboard1?publish=yes
+      - The projet
    - ### Student Immigration Trend In Canada :
      - Visualized immigration pattern dor student ocer the past eignt years,highilighting significant dempgraphic shifts  and the imact of police changes.
     https://public.tableau.com/app/profile/ramindar.kaur/viz/StudentsimmigrationinCanada/Dashboard2?publish=yes
