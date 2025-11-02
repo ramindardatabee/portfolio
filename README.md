@@ -50,9 +50,7 @@ https://github.com/ramindardatabee/Adventure-work-report-
    - Microsoft Power BI Desktop for Business Intelligence – Udemy
        -[https://www.udemy.com/certificate/UC-b9e38b79-8432-4042-a202-4810deb0c5a8/](https://www.udemy.com/certificate/UC-b9e38b79-8432-4042-a202-4810deb0c5a8/)
 
- 
- # 📫 Let’s Connect
-   ### 📫 Let's Connect
+ ## 📫 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramindar-kaur)
 - [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramindardatabee)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramindarkaur@gmail.com)
