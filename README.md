@@ -66,12 +66,10 @@ Findings helped Bellabeat’s marketing and product teams design data-driven wel
 ---
 
 # 🎓 Education & Certifications  
-- **Certificate in Applied Data Analytics** – BCIT, Canada *(Expected 2025)*  
+- **Certificate in Applied Data Analytics** – BCIT, Canada (Graduated July 2025)
 - **M.Sc. Mathematics** – University of Allahabad, India  
-- **Google Data Analytics Professional Certificate** – Coursera  
-  - [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/6J8RZF5RFJYL)  
-- **Microsoft Power BI Desktop for Business Intelligence** – Udemy  
-  - [View Credential](https://www.udemy.com/certificate/UC-b9e38b79-8432-4042-a202-4810deb0c5a8/)  
+- **Google Data Analytics Professional Certificate** - [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/6J8RZF5RFJYL)  
+- **Microsoft Power BI Desktop for Business Intelligence** - [View Credential](https://www.udemy.com/certificate/UC-b9e38b79-8432-4042-a202-4810deb0c5a8/)  
 
 ---
 
