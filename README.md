@@ -15,7 +15,8 @@
 # 📊 Projects
    ## Tableau
    - ### Sales and Customer Analysis :
-    -  The project provides the overview of sales and cutomer data ,trends and behaviour helping marketing team and management to understand customer segement and improve sales and customer satisfaction.https://public.tableau.com/app/profile/ramindar.kaur2033/viz/SalesCustomerAnalysisProject/SalesDashbord
+     -  The project provides the overview of sales and cutomer data ,trends and behaviour helping marketing team and management to understand customer segement and improve sales.
+     https://public.tableau.com/app/profile/ramindar.kaur2033/viz/SalesCustomerAnalysisProject/SalesDashbord
    - ### Women for change :
       - The projet seeks to educate and inform communities about gender inequality , fostering a collective commitment to building a more equitable world.
      https://public.tableau.com/app/profile/ramindar.kaur2033/viz/womenforchange/Dashboard1
