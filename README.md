@@ -54,7 +54,10 @@ Optimized queries for business intelligence reporting to manage orders, purchasi
 ---
 
 ## 🐍 Python  
-*(Project details coming soon)*  
+### 🚗 [Vehicle Prediction](https://github.com/ramindardatabee/Vehicle-Prediction-)  
+Built a predictive model in Python to forecast vehicle maintenance needs and failure timing using historical fleet data.  
+Featured data cleaning, feature engineering, algorithm comparison, and a dashboard highlighting insights for proactive decision-making and cost reduction.
+
 
 ---
 
