@@ -6,6 +6,7 @@
  - 🧠 Strong foundation in data visualization, predictive analytics, and reporting automation.
  - 💬 Skilled in communicating complex insights through clear visuals and data storytelling.
  - 🌱 Continuously learning advanced analytics and expanding my knowledge in SQL, Power BI, and Python.
+
  # 🧰 Technical Skills
 - Data Visualization - Power BI, Tableau, Excel (Power Query, Power Pivot)
 - Programming & Analytics - SQL, R, Python
@@ -13,7 +14,7 @@
 - Statistical Methods - Forecasting, Trend & Risk Analysis
 - Other Skills - Data Cleaning, Process Automation, KPI Development, Dashboard Design
 # 📊 Projects
-  ## Tableau
+## Tableau
    - ### Sales and Customer Analysis :
      -  The project provides the overview of sales and cutomer data ,trends and behaviour helping marketing team and management to understand customer segement and improve sales.
      https://public.tableau.com/app/profile/ramindar.kaur2033/viz/SalesCustomerAnalysisProject/SalesDashbord
@@ -23,7 +24,7 @@
    - ### Student Immigration Trend In Canada :
      - Visualized immigration pattern dor student ocer the past eignt years,highilighting significant dempgraphic shifts  and the imact of police changes.
     https://public.tableau.com/app/profile/ramindar.kaur/viz/StudentsimmigrationinCanada/Dashboard2?publish=yes
-   ## Power BI
+ ## Power BI
   - ### Hospital Challenge Maven- Analytics :
     - This report presents a high-level analysis of patient data from Massachusetts General Hospital, focusing on patient encounters, financial performance, and procedure utilization.
     -  Key findings include high readmission rates among older patients, rising healthcare costs over time, and significant variation in procedure costs and durations. 
@@ -48,7 +49,7 @@ https://github.com/ramindardatabee/Adventure-work-report-
    - Google Data Analytics Professional Certificate – Coursera
        -[ https://coursera.org/verify/profession al-cert/6J8RZF5RFJYL](https://www.coursera.org/account/accomplishments/professional-cert/6J8RZF5RFJYL)
    - Microsoft Power BI Desktop for Business Intelligence – Udemy
-       -https://www.udemy.com/certificate/UC-b9e38b79-8432-4042-a202-4810deb0c5a8/
+       -[https://www.udemy.com/certificate/UC-b9e38b79-8432-4042-a202-4810deb0c5a8/](https://www.udemy.com/certificate/UC-b9e38b79-8432-4042-a202-4810deb0c5a8/)
 
  
  # 📫 Let’s Connect
