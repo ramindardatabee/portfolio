@@ -24,21 +24,21 @@
      - Visualized immigration pattern dor student ocer the past eignt years,highilighting significant dempgraphic shifts  and the imact of police changes.
     https://public.tableau.com/app/profile/ramindar.kaur/viz/StudentsimmigrationinCanada/Dashboard2?publish=yes
 ## Power BI
-  - ### Hospital Challenge Maven- Analytics :
+   - ### Hospital Challenge Maven- Analytics :
     - This report presents a high-level analysis of patient data from Massachusetts General Hospital, focusing on patient encounters, financial performance, and procedure utilization.
     -  Key findings include high readmission rates among older patients, rising healthcare costs over time, and significant variation in procedure costs and durations. 
     https://github.com/ramindardatabee/Hospital-Challenge-Maven-Analytics
 
-  - ### Adventure works Dataset :
+   - ### Adventure works Dataset :
       - Developed an interactive dashboard to track sales, customer dempgraphics and product preformance.
 https://github.com/ramindardatabee/Adventure-work-report-
 ##  SQL
-  - ### North Wind Dataset:
-   -  Optimized queries for business intelligence reporting to manage small business customers' orders, purchasing, inventory, suppliers, shipping and employees.
+   - ### North Wind Dataset:
+    -  Optimized queries for business intelligence reporting to manage small business customers' orders, purchasing, inventory, suppliers, shipping and employees.
  https://github.com/ramindardatabee/NWDB-projects
 ## Python
 ## R
-   - ### Bellabeat Google Capstone Project:
+    - ### Bellabeat Google Capstone Project:
       -  Analyzed Fitbit fitness tracker data to uncover how activity type and sleep duration impact BMI and calorie burn, offering actionable insights for users. The findings help Bellabeat’s marketing and product teams design data-driven wellness recommendations and app enhancements.
  https://www.kaggle.com/code/ramindarkaur/bellabeat-google-capstone-project
 
@@ -49,8 +49,7 @@ https://github.com/ramindardatabee/Adventure-work-report-
        -[ https://coursera.org/verify/profession al-cert/6J8RZF5RFJYL](https://www.coursera.org/account/accomplishments/professional-cert/6J8RZF5RFJYL)
    - Microsoft Power BI Desktop for Business Intelligence – Udemy
        -[https://www.udemy.com/certificate/UC-b9e38b79-8432-4042-a202-4810deb0c5a8/](https://www.udemy.com/certificate/UC-b9e38b79-8432-4042-a202-4810deb0c5a8/)
-
- ## 📫 Let's Connect
+##  📫 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramindar-kaur)
 - [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramindardatabee)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramindarkaur@gmail.com)
