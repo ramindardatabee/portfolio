@@ -13,6 +13,14 @@
 - Statistical Methods - Forecasting, Trend & Risk Analysis
 - Other Skills - Data Cleaning, Process Automation, KPI Development, Dashboard Design
 # 📊 Projects
+   # Power BI
+     ## Adventure works Dataset 
+     _ Developed an interative dashboard to track sales,customer demographics and Product preformance.https://github.com/ramindardatabee/Adventure-work-report-
+  
+   # Tableau
+   # SQL
+   # Python
+   # R
 
 # 🎓 Education & Certifications
    - Certificate in Applied Data Analytics – BCIT, Canada
