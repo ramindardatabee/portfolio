@@ -6,15 +6,14 @@
  - 🧠 Strong foundation in data visualization, predictive analytics, and reporting automation.
  - 💬 Skilled in communicating complex insights through clear visuals and data storytelling.
  - 🌱 Continuously learning advanced analytics and expanding my knowledge in SQL, Power BI, and Python.
-
- # 🧰 Technical Skills
-- Data Visualization - Power BI, Tableau, Excel (Power Query, Power Pivot)
-- Programming & Analytics - SQL, R, Python
-- atabase Management - SQL Server, MySQL
-- Statistical Methods - Forecasting, Trend & Risk Analysis
-- Other Skills - Data Cleaning, Process Automation, KPI Development, Dashboard Design
+# 🧰 Technical Skills 
+ - Data Visualization - Power BI, Tableau, Excel (Power Query, Power Pivot)
+ - Programming & Analytics - SQL, R, Python
+ - atabase Management - SQL Server, MySQL
+ - Statistical Methods - Forecasting, Trend & Risk Analysis
+ - Other Skills - Data Cleaning, Process Automation, KPI Development, Dashboard Design
 # 📊 Projects
-## Tableau
+ ## Tableau
    - ### Sales and Customer Analysis :
      -  The project provides the overview of sales and cutomer data ,trends and behaviour helping marketing team and management to understand customer segement and improve sales.
      https://public.tableau.com/app/profile/ramindar.kaur2033/viz/SalesCustomerAnalysisProject/SalesDashbord
