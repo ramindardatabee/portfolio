@@ -13,7 +13,7 @@
  - Statistical Methods - Forecasting, Trend & Risk Analysis
  - Other Skills - Data Cleaning, Process Automation, KPI Development, Dashboard Design
 # 📊 Projects
- ## Tableau
+## Tableau
    - ### Sales and Customer Analysis :
      -  The project provides the overview of sales and cutomer data ,trends and behaviour helping marketing team and management to understand customer segement and improve sales.
      https://public.tableau.com/app/profile/ramindar.kaur2033/viz/SalesCustomerAnalysisProject/SalesDashbord
@@ -23,7 +23,7 @@
    - ### Student Immigration Trend In Canada :
      - Visualized immigration pattern dor student ocer the past eignt years,highilighting significant dempgraphic shifts  and the imact of police changes.
     https://public.tableau.com/app/profile/ramindar.kaur/viz/StudentsimmigrationinCanada/Dashboard2?publish=yes
- ## Power BI
+## Power BI
   - ### Hospital Challenge Maven- Analytics :
     - This report presents a high-level analysis of patient data from Massachusetts General Hospital, focusing on patient encounters, financial performance, and procedure utilization.
     -  Key findings include high readmission rates among older patients, rising healthcare costs over time, and significant variation in procedure costs and durations. 
@@ -32,12 +32,12 @@
   - ### Adventure works Dataset :
       - Developed an interactive dashboard to track sales, customer dempgraphics and product preformance.
 https://github.com/ramindardatabee/Adventure-work-report-
- ##  SQL
+##  SQL
   - ### North Wind Dataset:
    -  Optimized queries for business intelligence reporting to manage small business customers' orders, purchasing, inventory, suppliers, shipping and employees.
  https://github.com/ramindardatabee/NWDB-projects
- ## Python
- ## R
+## Python
+## R
    - ### Bellabeat Google Capstone Project:
       -  Analyzed Fitbit fitness tracker data to uncover how activity type and sleep duration impact BMI and calorie burn, offering actionable insights for users. The findings help Bellabeat’s marketing and product teams design data-driven wellness recommendations and app enhancements.
  https://www.kaggle.com/code/ramindarkaur/bellabeat-google-capstone-project
