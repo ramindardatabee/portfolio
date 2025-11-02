@@ -30,15 +30,15 @@
     -  Key findings include high readmission rates among older patients, rising healthcare costs over time, and significant variation in procedure costs and durations. 
     https://github.com/ramindardatabee/Hospital-Challenge-Maven-Analytics
 
- - ### Adventure works Dataset :
+  - ### Adventure works Dataset :
       - Developed an interactive dashboard to track sales, customer dempgraphics and product preformance.
 https://github.com/ramindardatabee/Adventure-work-report-
-   ##  SQL
- - ### North Wind Dataset:
+ ##  SQL
+  - ### North Wind Dataset:
    -  Optimized queries for business intelligence reporting to manage small business customers' orders, purchasing, inventory, suppliers, shipping and employees.
  https://github.com/ramindardatabee/NWDB-projects
-   ## Python
-   ## R
+ ## Python
+ ## R
    - ### Bellabeat Google Capstone Project:
       -  Analyzed Fitbit fitness tracker data to uncover how activity type and sleep duration impact BMI and calorie burn, offering actionable insights for users. The findings help Bellabeat’s marketing and product teams design data-driven wellness recommendations and app enhancements.
  https://www.kaggle.com/code/ramindarkaur/bellabeat-google-capstone-project
