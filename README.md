@@ -13,14 +13,21 @@
 - Statistical Methods - Forecasting, Trend & Risk Analysis
 - Other Skills - Data Cleaning, Process Automation, KPI Development, Dashboard Design
 # 📊 Projects
-   # Power BI
-     ## Adventure works Dataset 
-     _ Developed an interative dashboard to track sales,customer demographics and Product preformance.https://github.com/ramindardatabee/Adventure-work-report-
-  
-   # Tableau
-   # SQL
-   # Python
-   # R
+   ## Tableau
+   - ### Sales and Customer Analysis :
+   -  The project provides the overview of sales and cutomer data ,trends and behaviour
+   - ### Women for change :
+      - The projeange/Dashboard1?publish=yes
+   - ### Student Immigration Trend In Canada :
+     - Visualized immigration pattern dor student ocer the past eignt years,highilighting significant dempgraphic shifts  and the imact of police changes.
+    https://public.tableau.com/app/profile/ramindar.kaur/viz/StudentsimmigrationinCanada/Dashboard2?publish=yes
+   ## Power BI
+   - ### Adventure works Dataset :
+   - Developed an interactive dashboard to track sales, customer dempgraphics and product preformance.
+https://github.com/ramindardatabee/Adventure-work-report-
+   ##  SQL
+   ## Python
+   ## R
 
 # 🎓 Education & Certifications
    - Certificate in Applied Data Analytics – BCIT, Canada
