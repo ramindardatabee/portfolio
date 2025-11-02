@@ -13,7 +13,7 @@
 - Statistical Methods - Forecasting, Trend & Risk Analysis
 - Other Skills - Data Cleaning, Process Automation, KPI Development, Dashboard Design
 # 📊 Projects
-   ## Tableau
+  ## Tableau
    - ### Sales and Customer Analysis :
      -  The project provides the overview of sales and cutomer data ,trends and behaviour helping marketing team and management to understand customer segement and improve sales.
      https://public.tableau.com/app/profile/ramindar.kaur2033/viz/SalesCustomerAnalysisProject/SalesDashbord
